@@ -1,3 +1,5 @@
+# 🟢 Level 1 — Very Basic
+
 # 1. Create variables to store your:
 
 # name = "Disha"
@@ -63,7 +65,7 @@
 # print(keyword.iskeyword(s))
 # print(keyword.issoftkeyword(s))
 
-
+# 🟡 Level 2 — Operators
 
 # 8. Take two numbers and perform:
 # addition
@@ -134,11 +136,122 @@
 
 
 
-# You have ₹1000 and spend ₹275.50. Calculate the remaining amount.
+# 15.You have ₹1000 and spend ₹275.50. Calculate the remaining amount.
 # total_amount = 1000
 # spend_amount = 275.50
 # remaining_amount = total_amount - spend_amount
 # print(remaining_amount)
 
+
+
+# 🟡 Relational / Comparison Operators
+
+# 16. Take two numbers and check:
+# a=10
+# b=6
+# print(a > b)
+# print(a < b)
+# print(a == b)
+# print(a != b)
+# print(a >= b)
+# print(a <= b)
+
+
+
+# 17.Predict the output:
+# a = 10
+# b = 20
+
+# print(a > b)
+# print(a < b)
+# print(a == b)
+# print(a != b)
+
+
+
+# 18. Predict:
+# x = 25
+# print(x > 10 and x < 30)
+
+
+
+# 19.Check whether a person's age is between 18 and 60.
+# a=59
+# print(a>18 and a < 60)
+
+
+
+# 🟡 Logical Operators
+# print(True and True)
+# print(True and False)
+# print(True or False)
+# print(False or False)
+# print(not True)
+
+
+# 🟡 Assignment Operators
+
+
+# x = 10
+# x += 10
+# print (x)
+# x -= 10
+# x *= 10
+# x /= 10
+# x //= 10
+# x %= 10
+# x **= 10
+
+
+
+# 🔵 Level 3 — Input & Output
+# name = input("Enter the name : ")
+
+# Ask the user for two numbers and print their sum.
+# num1=input("Enter first number: ")
+# num2=input("Enter second number: ")
+# sum =int(num1) + int(num2)
+# print(sum)
+
+
+
+# 20. Ask the user for:
+# Name
+# Age
+# City
+
+# name=input("Enter your name: ")
+# age=input("Enter your age: ")
+# city=input("Enter your city: ")
+# print(f"The user is {name} and is {age} years old. The user stays in {city}.")
+
+
+
+# 🔵 Type Conversion & Casting
+
+# Convert:
+# "100" → integer
+# "10.5" → float
+# 100 → float
+# 10.5 → integer
+# 100 → string
+
+# print(str(100))
+
+# x = "10"
+# y = "20"
+# sum = int(x) + int(y)
+# print(sum)
+
+# print(int(10.99))
+# print(float(10))
+# print(str(100))
+
+
+# result = 10 + 5 * 2
+# result = 20 / 5 + 3 * 2
+# result = 2 ** 3 * 4
+# result = (10 + 5) * 2
+# print(result)
 
 
